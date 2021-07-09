@@ -1,7 +1,3 @@
-* [Das Leben](https://www.cornelsen.de/produkte/das-leben-kurs-und-uebungsbuch-als-e-book-mit-audios-und-videos-a1-gesamtband-9783061227852)
-* [Linie 1](https://www.klett-sprachen.de/linie-1-a1-digitale-ausgabe-mit-lms/t-1/NP00860705502?anchor=title-editions-linkboxes)  
-* [Momente](https://hueber.de/momente)
-* [Netzwerk neu](https://www.klett-sprachen.de/netzwerk-neu-a1-1-digitale-ausgabe-mit-lms/t-1/NP00860715401?anchor=title-editions-linkboxes)  
 * [Deutsch im vhs-Lernportal](https://deutsch.vhs-lernportal.de/)
 * [Schritte PLUS NEU](https://hueber.de/aktionen/onlinekurse-bamf)
 * [Deutsch Fuchs](https://deutschfuchs.de/)
