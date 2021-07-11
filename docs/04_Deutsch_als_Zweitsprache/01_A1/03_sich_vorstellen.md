@@ -19,4 +19,4 @@
 |Wie ist dein Name? oder Wer bist du?|Ich bin Thorsten oder Mein Name ist Thorsten.|
 |Woher kommst du|Ich komme aus Deutschland.|
 |Wo wohnst du?|Ich wohne in Ahrensburg.|
-|Was sprichst du? Ich spreche schlecht Deutsch.|
+|Was sprichst du?|Ich spreche schlecht Deutsch.|
