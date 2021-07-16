@@ -3,5 +3,4 @@
 * [LinkedIn Learning](https://de.linkedin.com/learning)
 * [Hot Potatoes](http://web.uvic.ca/hrd/halfbaked/)
 * [R-Quiz](https://deutsch-lernen.zum.de/wiki/R-Quiz)
-* [ExeLearning](https://exelearning.net/en/)
 * [Lumi](https://next.lumi.education/)
