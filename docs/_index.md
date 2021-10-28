@@ -6,3 +6,7 @@
 * [Gemeinschaftsschule Am Heimgarten](http://www.gemeinschaftsschule-am-heimgarten.de/)
 * [Grundschule Am Hagen](http://www.gs-am-hagen.de/)
 * [Volkshochschule](https://www.vhs-ahrensburg.de/)
+## Schwesterprojekte
+
+* [ahrensburg.blog](https://ahrensburg.blog)
+* [ahewnsburg.digital](https://ahrensburg.digital)
