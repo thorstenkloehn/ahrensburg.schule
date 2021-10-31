@@ -9,4 +9,5 @@
 ## Schwesterprojekte
 
 * [ahrensburg.blog](https://ahrensburg.blog)
-* [ahewnsburg.digital](https://ahrensburg.digital)
+* [ahrensburg.digital](https://ahrensburg.digital)
+* [github.com](https://github.com/thorstenkloehn/ahrensburg.schule)
