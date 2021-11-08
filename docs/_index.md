@@ -11,5 +11,4 @@
 * [ahrensburg.blog](https://ahrensburg.blog)
 * [ahrensburg.digital](https://ahrensburg.digital)
 * [github.com](https://github.com/thorstenkloehn/ahrensburg.schule)
-* [git.ahrensburg.digital](https://git.ahrensburg.digital)
 * [ahrensburg.wiki](https://ahrensburg.wiki)
